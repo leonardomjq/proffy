@@ -1,15 +1,15 @@
-import React from "react";
+import React from 'react';
 
-import whatsappIcon from "../../assets/images/icons/whatsapp.svg";
+import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
 
-import "./styles.css";
+import './styles.css';
 
 export default function TeacherItem() {
   return (
     <article className="teacher-item">
       <header>
         <img
-          src="https://pbs.twimg.com/profile_images/1266286316070682624/6AX21H6e_400x400.jpg"
+          src="https://pbs.twimg.com/profile_images/1291307893002833922/612uzHNr_400x400.jpg"
           alt="Leonardo Jaques"
         />
         <div>
