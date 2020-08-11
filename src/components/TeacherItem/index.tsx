@@ -14,7 +14,7 @@ export default function TeacherItem() {
         />
         <div>
           <strong>Leonardo Jaques</strong>
-          <span>Quimica</span>
+          <span>Chemistry</span>
         </div>
       </header>
 
@@ -29,13 +29,13 @@ export default function TeacherItem() {
 
       <footer>
         <p>
-          Preco/hora
+          Price/hour
           <strong>$80,00</strong>
         </p>
 
         <button type="button">
           <img src={whatsappIcon} alt="Whatsapp" />
-          Entrar em contato
+          Contact
         </button>
       </footer>
     </article>
